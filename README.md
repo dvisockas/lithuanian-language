@@ -1,0 +1,1 @@
+# Lithuanian language sentences
