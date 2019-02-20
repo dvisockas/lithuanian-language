@@ -1,0 +1,1 @@
+﻿_pauze pereik į galinę kortelę _tyla pereik į kitą elementą  _tyla pereik į kitą lauką _pauze _ikvepimas pereik į kortelę _pauze pereik į pradžios kortelę _pauze pereik į tolesnę kortelę _tyla pereik į tolesnį elementą _tyla pereik į tolesnį lauką _pauze pereik pirmyn _pauze pradžios kortelė _pauze
