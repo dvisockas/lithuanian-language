@@ -1,0 +1,1 @@
+﻿_tyla išskleisk langą _tyla į dešinę _tyla į kairę _tyla į pabaigą _pauze į pradžią _tyla į puslapio apačią _pauze į puslapio viršų _tyla įdėk _tyla įjunk abipusę lygiuotę _tyla įjunk centrinę lygiuotę _tyla
