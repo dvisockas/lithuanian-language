@@ -1,0 +1,1 @@
+_tyla i1 ankstesne1 programa1 _pauze i1 ankstesni1 elementa1 _pauze i1 ankstesni1 lauka1 _pauze i1 aplanku1 medi1 _pauze i1 des2ine1 _pauze _ikvepimas i1 failu1 sa1ras2a1 _pauze i1 kaire1 _pauze i1 lais2ku1 sa1ras2a1 _pauze i1 nars2ymo sriti1 _pauze i1 pabaiga1 _tyla
