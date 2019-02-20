@@ -1,0 +1,1 @@
+﻿_pauze _ikvepimas pereik į failų sąrašą _pauze pereik į naršymo srytį _tyla _ikvepimas pereik į tolesnį elementą _ikvepimas periunk į ankstesnę programą _tyla perjunk į tolesnę programą _tyla perjunk programą _tyla _ikvepimas persiųsk _pauze persiųsk laišką _tyla pirma funkcija _pauze pridėk priedą _pauze
