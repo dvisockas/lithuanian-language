@@ -1,0 +1,1 @@
+﻿_pauze _ikvepimas _pauze į ankstesnį elementą _iskvepimas _tyla į ankstesnį lauką _tyla į dešinę _pauze į galinę kortelę _pauze _puslapis _pauze į kairę _tyla į kitą elementą _tyla į kitą lauką _tyla į pabaigą _pauze į pradžią _tyla į tolesnę kortelę _tyla
