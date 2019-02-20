@@ -1,0 +1,5 @@
+#! /bin/ruby
+
+Dir.glob('sounds/*')[115..-1].each do |directory|
+  puts `git add #{directory};git commit -am "Added #{directory}"; git push`
+end
