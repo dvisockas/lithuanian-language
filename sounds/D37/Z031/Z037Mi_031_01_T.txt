@@ -1,0 +1,1 @@
+﻿_pauze adreso juosta _iskvepimas _pauze ankstesnis fragmentas _iskvepimas _pauze ankstesnis laukas _tyla ankstesnis saitų blokas _pauze ankstesnis teksto fragmentas _tyla ankstesnis tinklapis _iskvepimas _pauze atkurk mastelį _iskvepimas _pauze atsisakyk _iskvepimas _tyla atsiųsk iš naujo _iskvepimas _pauze atsiųsk tinklapį iš naujo _iskvepimas _pauze _iskvepimas _pauze
