@@ -1,0 +1,1 @@
+﻿_pauze _ikvepimas vykdyk aštuntą funkciją _pauze vykdyk antrą funkciją _pauze _ikvepimas ykdyk dešimtą funkciją _pauze vykdyk devintą funkciją _pauze _ikvepimas vykdyk ketvirtą funkciją _pauze vykdyk penktą funkciją _pauze vykdyk pirmą funkciją _pauze vykdyk septintą funkciją _pauze _ikvepimas vykdyk trečią funkciją _tyla
