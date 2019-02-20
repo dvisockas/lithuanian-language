@@ -1,0 +1,1 @@
+﻿_pauze _ikvepimas pereik į naršymo sritį _pauze pereik į pabaigą _tyla pereik į pradžią _tyla pereik į tolesnį elementą _tyla _ikvepimas pereik į tolesnį lauką _pauze perjunk į ankstesnę programą _pauze perjunk į tolesnę programą _pauze perjunk programą _tyla persiųsk _tyla persiųsk laišką _tyla

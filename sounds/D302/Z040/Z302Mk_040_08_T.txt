@@ -1,0 +1,1 @@
+﻿_pauze slink žemyn trys kartus _tyla paslink žemyn tris kartus _pauze paeik į kairę tris kartus _tyla slink į kairę tris kartus _pauze _ikvepimas _pauze paslink į kairę tris kartus _pauze
