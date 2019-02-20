@@ -1,0 +1,1 @@
+﻿_tyla išskleisk langą _pauze į dešinę _pauze _ikvepimas į kairę _pauze į pabaigą _pauze _ikvepimas į pradžią _pauze _ikvepimas į puslapio apačią _tyla _ikvepimas į puslapio viršų _pauze įdėk _pauze _ikvepimas įjunk abipusę lygiuotę _pauze _ikvepimas įjunk centrinę lygiuotę _pauze
